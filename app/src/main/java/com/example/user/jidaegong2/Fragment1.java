@@ -13,7 +13,7 @@ import com.nhn.android.maps.NMapView;
 
 public class Fragment1 extends Fragment {
     private NMapContext mMapContext;
-    private static final String CLIENT_ID = "YOUR_CLIENT_ID";// 애플리케이션 클라이언트 아이디 값
+    private static final String CLIENT_ID = "JDfLwVUGdVK1hQBIJOMC";// 애플리케이션 클라이언트 아이디 값
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         return inflater.inflate(R.layout.activity_fragment1, container, false);
